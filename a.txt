@@ -1,6 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello all
 jigyanshu 
 =======
 sahil
 >>>>>>> 7ac7865f2a4df4580011e2eda0951147e858776b
+=======
+hello all
+Mubeen
+sahil
+
+>>>>>>> d628c75296f045a3d41cf91ef029c483305fe1ab
