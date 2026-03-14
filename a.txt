@@ -1,10 +1,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello all
 jigyanshu 
 =======
 sahil
 >>>>>>> 7ac7865f2a4df4580011e2eda0951147e858776b
+=======
+
+bhargav
+
+>>>>>>> a9a06a1a6178862b26da3e56c7ddd795b437357d
 =======
 hello all
 Mubeen
@@ -14,3 +20,4 @@ my name is sahil
 =======
 
 >>>>>>> d628c75296f045a3d41cf91ef029c483305fe1ab
+>>>>>>> 6fca03b742e8f43d914be7742821e31ddce147e7
