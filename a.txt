@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+hello all
+jigyanshu 
+=======
+sahil
+>>>>>>> 7ac7865f2a4df4580011e2eda0951147e858776b
+=======
 
 <<<<<<< HEAD
 hello all
@@ -8,6 +17,7 @@ sahil
 =======
 bhargav
 
+>>>>>>> a9a06a1a6178862b26da3e56c7ddd795b437357d
 =======
 hello all
 Mubeen
