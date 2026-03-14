@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello all
 jigyanshu 
+=======
+sahil
+>>>>>>> 7ac7865f2a4df4580011e2eda0951147e858776b
